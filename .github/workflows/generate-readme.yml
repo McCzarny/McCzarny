@@ -44,8 +44,9 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_visibility: public
 
-          plugin_calendar: yes
-          plugin_calendar_limit: 4
+          # Enable after the activity will be more visible
+          plugin_calendar: no
+          plugin_calendar_limit: 1
 
           plugin_followup: yes
           plugin_followup_sections: repositories
@@ -72,5 +73,5 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_types: commit, pull_request
 
-          plugin_projects: yes
+          plugin_projects: no
           
