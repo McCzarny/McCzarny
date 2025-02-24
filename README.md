@@ -1,4 +1,4 @@
-<img src="maciej-czarnecki.jpg" align="left" width="200px"/>
+<img src="maciej-czarnecki-2025.png" align="left" width="256px"/>
 
 Hi, I'm Maciej Czarnecki, a passionate C++ developer with a strong backend focus and an interest in full-stack development. Over the years, I've worked on cybersecurity software, map renderer, and Qt-based applications, excelling in problem-solving and tools development.
 
