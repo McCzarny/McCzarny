@@ -12,6 +12,6 @@ jobs:
       - uses: McCzarny/ghsummary@development
         with:
           username: McCzarny
-          token: ${{ secrets.GITHUB_TOKEN }}
+          api_key: ${{ secrets.GEMINI_API_KEY }}
           output_path: github-summary.svg
 
