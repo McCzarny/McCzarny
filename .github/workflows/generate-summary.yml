@@ -1,0 +1,16 @@
+name: Summary
+on:
+  # Schedule updates (every week)
+  schedule: [{cron: "0 0 * * 0"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main", "development"]}
+jobs:
+  github-summary:
+    steps:
+      - uses: McCzarny/ghsummary@development
+        with:
+          username: McCzarny
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: github-summary.svg
+
