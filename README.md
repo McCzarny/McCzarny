@@ -39,6 +39,9 @@ Hi, I'm Maciej Czarnecki, a passionate C++ developer with a strong backend focus
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+**Recent activity**
+![Summary](github-summary.svg)
+
 <!-- Source: https://github.com/Ileriayo/markdown-badges  -->
 
 <!-- Still working on this -->
