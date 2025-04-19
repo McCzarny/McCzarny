@@ -14,4 +14,5 @@ jobs:
           username: McCzarny
           api_key: ${{ secrets.GEMINI_API_KEY }}
           output_path: github-summary.svg
+          mode: strict
 
