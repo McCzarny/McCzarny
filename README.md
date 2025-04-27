@@ -41,6 +41,8 @@ Hi, I'm Maciej Czarnecki, a passionate C++ developer with a strong backend focus
 
 **Recent activity**
 
+[generated with ghsummary](https://github.com/marketplace/actions/generate-github-activity-summary)
+
 ![Summary](github-summary.svg)
 
 <!-- Source: https://github.com/Ileriayo/markdown-badges  -->
