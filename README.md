@@ -8,6 +8,21 @@ Hi, I'm Maciej Czarnecki, a passionate C++ developer with a strong backend focus
 
 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/maciejczarnecki/)
 
+### 📝 Recent activity
+
+[generated with ghsummary](https://github.com/marketplace/actions/generate-github-activity-summary)
+
+![Summary](github-summary.svg)
+
+### Humble contribution to large projects
+
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![Chromium](https://img.shields.io/badge/Chromium-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Boost::Stacktrace](https://img.shields.io/badge/Boost::Stacktrace-%23000000.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Selinux](https://img.shields.io/badge/Selinux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+
+
+
 ### 🛠️ Technologies & Tools
 - **Languages**: 
 
@@ -38,12 +53,6 @@ Hi, I'm Maciej Czarnecki, a passionate C++ developer with a strong backend focus
 - **Other**: 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Recent activity**
-
-[generated with ghsummary](https://github.com/marketplace/actions/generate-github-activity-summary)
-
-![Summary](github-summary.svg)
 
 <!-- Source: https://github.com/Ileriayo/markdown-badges  -->
 
