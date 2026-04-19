@@ -17,9 +17,9 @@ Hi, I'm Maciej Czarnecki, a passionate C++ developer with a strong backend focus
 ### Humble contribution to great projects
 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![Chromium](https://img.shields.io/badge/Chromium-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Boost::Stacktrace](https://img.shields.io/badge/Boost::Stacktrace-%23000000.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Selinux](https://img.shields.io/badge/Selinux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Chromium](https://img.shields.io/badge/Chromium-3691e2.svg?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Boost::Stacktrace](https://img.shields.io/badge/Boost::Stacktrace-ff9f00.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Selinux](https://img.shields.io/badge/Selinux-284172.svg?style=for-the-badge&logo=linux&logoColor=white)
 
 
 
