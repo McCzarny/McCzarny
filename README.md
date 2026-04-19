@@ -14,7 +14,7 @@ Hi, I'm Maciej Czarnecki, a passionate C++ developer with a strong backend focus
 
 ![Summary](github-summary.svg)
 
-### Humble contribution to large projects
+### Humble contribution to great projects
 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Chromium](https://img.shields.io/badge/Chromium-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)
