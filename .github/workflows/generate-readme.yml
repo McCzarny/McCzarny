@@ -56,8 +56,8 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_details: bytes-size,percentage,lines
-          plugin_languages_aliases: Hack:PHP
           plugin_languages_limit: 8
+          plugin_languages_ignored: html
 
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
