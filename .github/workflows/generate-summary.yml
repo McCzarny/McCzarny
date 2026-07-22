@@ -9,7 +9,7 @@ jobs:
   github-summary:
     runs-on: ubuntu-latest
     steps:
-      - uses: McCzarny/ghsummary@development
+      - uses: McCzarny/ghsummary@master
         with:
           username: McCzarny
           api_key: ${{ secrets.GEMINI_API_KEY }}
